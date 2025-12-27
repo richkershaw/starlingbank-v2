@@ -4,6 +4,8 @@
 
 An **unofficial** python package that provides access to parts of the Starling bank API. Designed to be used for personal use (i.e. using personal access tokens).
 
+This is a fork of (rahulpdev's repo)[https://github.com/rahulpdev/starlingbank], which is in turn a fork of (Adam Dullage's)[https://github.com/rahulpdev/starlingbank] original code, which hasn't been updated in 6 years as of December 2025.
+
 * [Change Log](#change-log)
 * [Links](#links)
 * [Installation](#installation)
@@ -18,7 +20,6 @@ An **unofficial** python package that provides access to parts of the Starling b
   * [Update a Single Savings Goal](#update-a-single-savings-goal)
   * [Add to / withdraw from a Savings Goal](#add-to--withdraw-from-a-savings-goal)
   * [Download a Savings Goal Image](#download-a-savings-goal-image)
-
 
 ## Change Log
 27/12/2025
