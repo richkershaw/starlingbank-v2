@@ -1,6 +1,6 @@
 ![PyPI](https://img.shields.io/pypi/v/starlingbank.svg)
 
-# starlingbank
+# starlingbankapi
 
 An **unofficial** python package that provides access to parts of the Starling bank API. Designed to be used for personal use (i.e. using personal access tokens).
 
